@@ -1,5 +1,5 @@
 # Careers-Crew
-### Working Demo:   (Will be available on demand ( server cost :neutral_face: ): https://careers-crew.tk )
+### Working Demo:   (Will be available on demand ( server cost :neutral_face: ) )
 
 ---
 
