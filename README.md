@@ -1,6 +1,5 @@
 # Careers-Crew
-### Working Demo: https://careers-crew.tk/  
-### (Wait at least 20-25 Seconds, for servers to come online)
+### Working Demo:   (Will be available on demand ( server cost :neutral_face: ): https://careers-crew.tk )
 
 ---
 
