@@ -1,6 +1,4 @@
 # Careers-Crew
-### Working Demo:   (Will be available on demand ( server cost :neutral_face: ) )
-
 ---
 
 It’s an applicant tracking app to manage candidates applying for positions.  
